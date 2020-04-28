@@ -1,0 +1,18 @@
+/* CSS Document */
+
+body {
+    color: greenyellow;
+    text-align: center;
+    background-color:#454757;
+}
+header{
+    border-bottom: dashed;
+}
+
+footer {
+    border-top:dashed;
+}
+
+#word {
+    font-size: 100px;
+}
